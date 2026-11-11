@@ -29,11 +29,7 @@ Sunt student în **anul 2** la **Facultatea de Automatică și Calculatoare (UTC
 ### 📊 Statistici GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marza-Robert&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marza-Robert&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<p align="center">
+  <img height="170" src="https://github-stats-alpha.vercel.app/api?username=Marza-Robert&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" />
   <img src="https://streak-stats.demolab.com?user=Marza-Robert&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
 </p>
 
