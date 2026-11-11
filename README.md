@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7f5af0&height=180&section=header&text=Robert%20Marza&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Student%20%40%20UTCN%20-%20Automatică%20și%20Calculatoare&descAlignY=60&descSize=16" width="100%" alt="banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F5AF0&center=true&vCenter=true&width=520&lines=Student+în+anul+2+la+AC+Cluj;Îmi+plac+algoritmii+și+structurile+de+date;Vreau+să+înțeleg+cum+merg+lucrurile+under+the+hood" alt="Typing" />
+  <b>Student în anul 2 la AC Cluj</b> · Algoritmi și structuri de date · Ingineria software
 </p>
 
 ---
