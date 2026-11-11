@@ -1,39 +1,49 @@
-## Hi there 👋
-### Salutare, sunt Robert! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7f5af0&height=180&section=header&text=Robert%20Marza&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Student%20%40%20UTCN%20-%20Automatică%20și%20Calculatoare&descAlignY=60&descSize=16" width="100%" alt="banner" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Student%20@%20UTCN%20AC-blue?style=flat-square&logo=gitbook" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Software%20Dev-orange?style=flat-square&logo=codewars" alt="Focus" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F5AF0&center=true&vCenter=true&width=520&lines=Student+în+anul+2+la+AC+Cluj;Îmi+plac+algoritmii+și+structurile+de+date;Vreau+să+înțeleg+cum+merg+lucrurile+under+the+hood" alt="Typing" />
 </p>
-
-Sunt student în **anul 2** la **Facultatea de Automatică și Calculatoare (UTCN)**. Sunt pasionat de inginerie software, algoritmică și de construirea de aplicații curate și eficiente. Îmi place să înțeleg cum funcționează lucrurile "under the hood", de la nivel de sistem până la nivel de aplicație.
 
 ---
 
-### 💻 Stack-ul meu tehnologic
+### 👨‍💻 Despre mine
 
-* **Limbaje principale:** 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2++&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-* **Concepte & Fundamente:** Structuri de date și algoritmi, Programare Orientată pe Obiecte (OOP), Programare Concurentă.
-* **Unelte & Medii:** Git, Linux, VS Code, IntelliJ IDEA, Code::Blocks.
+Sunt student în **anul 2** la **Facultatea de Automatică și Calculatoare (UTCN)**. Mă pasionează ingineria software, algoritmica și aplicațiile curate și eficiente.
+
+- 🔭 Lucrez acum la teme de algoritmi (heap-uri, sortări, tabele de dispersie) și la un proiect de baze de date
+- 🌱 Învăț mai mult despre sisteme și programare concurentă
+- 🎓 Îmi place să înțeleg cum funcționează lucrurile de la nivel de sistem până la aplicație
+
+---
+
+### 🛠️ Tehnologii
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,git,linux,vscode,idea&theme=dark" alt="Tehnologii" />
+</p>
+
+**Fundamente:** Structuri de date și algoritmi · OOP · Programare concurentă
 
 ---
 
 ### 📊 Statistici GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Marza-Robert&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marza-Robert&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marza-Robert&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marza-Robert&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Marza-Robert&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
 </p>
 
 ---
 
-### 📫 Hai să vorbim!
+### 📫 Hai să vorbim
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/robert-marza-a7906937b/
-* ✉️ **Email:** marza.fi.robert@student.utcluj.ro
+<p align="left">
+  <a href="https://www.linkedin.com/in/robert-marza-a7906937b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:marza.fi.robert@student.utcluj.ro"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
